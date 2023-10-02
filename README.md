@@ -1,9 +1,9 @@
 <h1 align="center">Eii 👋, Eu sou a Karoline Silva</h1>
-<h3 align="center">Formada em Técnico de Informática para Internet pelo CEFET/MG</h3>
+<h3 align="center">Formada em Técnico de Informática para Internet pelo CEFET/MG e graduada em Nutrição</h3>
 
-- 🔭 Estou trabalhando atualmente como **Analista de Migração de Dados**
+- 🔭 Estou trabalhando atualmente como **Analista de Dados**
 
-- 🌱 Atualmente estou aprendendo sobre **Ciência de Dados e BI**
+- 🌱 Atualmente estou aprendendo mais sobre **Ciência de Dados e BI**
 
 - 📫 Como chegar até mim **karolinesilva01@outlook.com**
 
